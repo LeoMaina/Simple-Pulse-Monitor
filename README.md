@@ -12,6 +12,7 @@ Breadboard,
 ## Specifications
 ### Pulse Sensor
 **Pin Out**
+
 Red: +3 or +5V,   Black: GND,   Purple: Analog pin
 
 
